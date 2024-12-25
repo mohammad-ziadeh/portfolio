@@ -32,7 +32,7 @@
   background-color: var(--nav-text-color);
 }
 h2 {
-  font-size: 50px;
+  font-size: 40px;
 }
 h3 {
   font-size: 40px;
@@ -43,7 +43,7 @@ p {
 body {
   display: grid;
   animation: 7s ease-in-out infinite normal forwards rgb;
-  height: 700vh;
+  height: 750vh;
   place-content: center center;
   grid-template-columns: repeat(7, 1fr);
   grid-template-rows: repeat(17, 1fr);
