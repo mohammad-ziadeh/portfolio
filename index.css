@@ -135,9 +135,7 @@ nav:hover {
   i {
     font-size: 15px;
   }
-  .mepic {
-    display: none;
-  }
+  
 }
 
 @media screen and (max-width: 1025px) {
