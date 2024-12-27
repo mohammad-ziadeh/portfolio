@@ -112,12 +112,29 @@ nav:hover {
   }
  
   
-  
 }
 
 @media screen and (max-width: 769px) {
   body {
     height: fit-content;
+  }
+  h2 {
+    font-size: 24px;
+  }
+  h3 {
+    font-size: 20px;
+  }
+  p {
+    font-size: 15px;
+  }
+  li {
+    font-size: 15px;
+  }
+  i{
+    font-size: 15px;
+  }
+  .mepic{
+    display: none;
   }
 }
 
@@ -377,7 +394,7 @@ i {
   margin-top: 20px;
   text-align: center;
   color: var(--main-color);
-  font-size: 35px;
+
   grid-row: 1;
   grid-column: 1/3;
 }
@@ -385,7 +402,7 @@ i {
 .three p {
   text-align: center;
   color: var(--main-color);
-  font-size: 22px;
+
   grid-column: 1/3;
 }
 .three .p-card1 {
